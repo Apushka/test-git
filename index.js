@@ -1,3 +1,8 @@
-console.log('log1');
+console.log('Hello world');
 
-console.log('log1');
+const age = 35;
+if (age >= 18) {
+    console.log('Совершеннолетний')
+} else {
+    console.log('Несовершеннолетний')
+}
